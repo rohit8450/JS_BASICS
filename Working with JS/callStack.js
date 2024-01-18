@@ -22,3 +22,4 @@ function birthYear(year, age){
 
 var bYear = greetUser(userName);
 console.log(bYear);
+console.log(birthYear);
